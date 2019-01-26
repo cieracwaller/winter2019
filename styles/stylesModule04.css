@@ -5,7 +5,7 @@
 body {
 	width: 90%;
 	margin: 0 auto;
-        background-image: url("images/waterlilyPatternBackground.png")}
+        background-image: url("https://cieracwaller.github.io/winter2019/images/waterlilyPatternBackground.png")}
 #content {
 	overflow: auto;}
 #nav, #feature, #footer {
@@ -35,7 +35,7 @@ li {
 	margin-bottom: 1em;
         padding-top:5px;
 	background-color: #91c6ab;
-        background-image: url("images/watercolorLotus.png");
+        background-image: url("https://cieracwaller.github.io/winter2019/images/watercolorLotus.png");
         background-size:contain;
         background-position: right;
         background-repeat:no-repeat;}
