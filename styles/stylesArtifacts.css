@@ -41,14 +41,14 @@ body {
 
 .artifact1{
   background-color: #ffd8c5;
-  background-image:url("")
+  background-image:url("https://cieracwaller.github.io/winter2019/images/logo_usp.png")
   background-size:contain;
   background-position: right;
   background-repeat:no-repeat;
 }
 .artifact2{
   background-color: #ffccc6;
-  background-image: url("https://banner2.kisspng.com/20180319/wbw/kisspng-chess-piece-knight-pin-chessboard-chess-knight-cliparts-5ab02df2e60752.1574535515214955389422.jpg")
+  background-image: url("https://cieracwaller.github.io/winter2019/images/knight.jpg")
   background-size:contain;
   background-position: right;
   background-repeat:no-repeat;
