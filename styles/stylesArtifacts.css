@@ -48,17 +48,17 @@ body {
 
 .artifact1{
   background-color: #ffd8c5;
-  background-image:url("https://cieracwaller.github.io/winter2019/images/logo_usp.png")
-  background-size:contain;
-  background-position: right;
-  background-repeat:no-repeat;
+  background-image: url("https://cieracwaller.github.io/winter2019/images/logo_usp.png");
+        background-size:contain;
+        background-position: right;
+	background-repeat:no-repeat;
 }
 .artifact2{
   background-color: #ffccc6;
-  background-image: url("https://cieracwaller.github.io/winter2019/images/knight.jpg")
-  background-size:contain;
-  background-position: right;
-  background-repeat:no-repeat;
+  background-image: url("https://cieracwaller.github.io/winter2019/images/knight.png");
+        background-size:contain;
+        background-position: right;
+	background-repeat:no-repeat;
 }
 .artifact3{
   background-color: #e1afc6;
