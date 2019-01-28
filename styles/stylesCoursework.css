@@ -1,50 +1,60 @@
 * {
 	font-family: 'GardinerRegular', Verdana, sans-serif;
 	color: #665544;
-	text-align: center;}
+	text-align: center;
+}
+
 body {
 	width: 90%;
-    margin: 0 auto;
-    background-image:url("https://cieracwaller.github.io/winter2019/images/waterlilyPatternBackground1.png")}
+    	margin: 0 auto;
+    	background-image:url("https://cieracwaller.github.io/winter2019/images/waterlilyPatternBackground1.png")
+}
+
 #content {
-	overflow: auto;}
+	overflow: auto;
+}
 
 #nav, #feature, #footer {
-	margin: 1%;}
+	margin: %;
+}
 
 #nav li {
 	display: inline;
-	padding: 0.5em;}
+	padding: 0.5em;
+}
 
 #nav {
 	background-color: #a8e4b8;
 	padding: 0.5em 0;
-    line-height:1.5em;}
+    line-height:1.5em;
+}
     
 #footer {
         background-color: #5d868d;  
         padding: 0.5em 0;
-        text-align}
+}
+
 .feature {
-	height: 10em;
-	margin-bottom: 1em;
-    padding-left:20px;
-    padding-right:20px;
-    padding-top:5px;
-	}
+    	height: 10em;
+    	margin-top:1em;
+    	margin-bottom: 1em;
+    	padding-left:20px;
+    	padding-right:20px;
+    	padding-top:5px;
+}
 
 .intro{
-  height: 5em;
-  background-color: #8ebfa5;
+  	height: 5em;
+  	background-color: #8ebfa5;
 }
 
 .class1{
-  background-color: #ffccc6;
+  	background-color: #ffccc6;
 }
 .class2{
-  background-color: #e1afc6;;
+  	background-color: #e1afc6;;
 }
 .class3{
-  background-color: #b99aab;;
+  	background-color: #b99aab;;
 }
 
