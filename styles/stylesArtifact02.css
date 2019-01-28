@@ -1,0 +1,63 @@
+html, body {
+  height:100%;
+  margin:0;
+}
+
+body{
+  background-image:url("http://3.bp.blogspot.com/-aNRb0w9Uu2E/Uk0w1v9lXjI/AAAAAAAAHrM/RipxfZqlQQ4/s1600/Texture-Backgrounds-Wallpaper-HD.jpg");
+}
+
+img {
+ margin-left: 10px;
+ margin-top:10px;
+ }
+  
+.row{
+  position:relative;
+  margin-left:10%;
+  margin-right:10%;}
+
+.clear{
+  clear:both;}
+
+.white, .black{
+ border: 1px solid black;
+ width: 10%;
+ height: 60px;
+ float:left;}
+
+.white{
+ background-color:white;} 
+
+.black{
+ background-color:#5280ce;}
+
+#header {
+ font-family: 'YoungSerifRegular', Verdana, sans-serif;
+ color:white;
+ font-weight: normal; 
+ font-style: normal; 
+ font-size:36px; 
+ height:10%;
+ position:fixed;
+ top:0px;
+ left:0px; 
+ padding:10px;
+ margin:0px;
+ width:100%;
+ background-color:#13223a;
+ text-align:center; 
+ z-index:10;}
+
+#footer {
+ padding: 10px;
+ background-color:#13223a;
+ text-align:center; 
+}
+
+#container {
+ margin-top:20%;
+ margin-left:10%;
+ margin-right:10%;
+ margin-bottom:5%;
+}
