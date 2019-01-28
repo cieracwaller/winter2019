@@ -36,7 +36,7 @@ body {
     padding-right:14em;
     background-color: #8ebfa5;
     background-image: url("https://cieracwaller.github.io/winter2019/images/dotaLogo.png");
-    background-size:contain;
+    background-size:300px 300px;
     background-position: right;
 	background-repeat:no-repeat;
 }
