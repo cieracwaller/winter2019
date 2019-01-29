@@ -14,10 +14,6 @@ body {
 	overflow: auto;
 }
 
-#nav, #feature, #footer {
-	margin: %;
-}
-
 #nav li {
 	display: inline;
 	padding: 0.5em;
