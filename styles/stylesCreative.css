@@ -33,10 +33,18 @@ body {
 	margin-top: 1em;
 	margin-bottom: 1em;
     padding:1em;
-    padding-right:14em;
+    padding-right:13em;
     background-color: #8ebfa5;
     background-image: url("https://cieracwaller.github.io/winter2019/images/dotaLogo.png");
-    background-size:300px 300px;
-    background-position: right;
+    background-size:175px 175px;
+    background-position: 98%;
 	background-repeat:no-repeat;
+}
+
+#dota {
+	margin-top: 1em;
+	margin-bottom: 1em;
+    padding:1em;  
+    padding-top:2em;
+    background-color: #8ebfa5;
 }
