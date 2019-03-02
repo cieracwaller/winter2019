@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
  <meta charset="utf-8">
- <meta name="viewport" content="width=device-width">
+ <meta id="viewport" content="width=device-width">
  <link rel="stylesheet" href="../styles/stylesArtifact04.css" />
  <title>Artifact 04</title>
 </head>
@@ -10,38 +10,38 @@
 <body>
   <h1>Contact Us</h1>
 <div id="errorMessages"></div>	
-  <form action="https://cieracwaller.github.io/winter2019/thankYou.html" method="get" name="myContact" onsubmit="return ValidateForm();">
+  <form action="https://cieracwaller.github.io/winter2019/thankYou.html" method="get" id="myContact" onsubmit="return ValidateForm();">
   
     <br>
  <fieldset>
  <legend>User Info</legend>  
  <label>Enter your first name (max 20 characters):
- <input type="text" name="firstName" size="20"></label>
+ <input type="text" id="firstName" size="20"></label>
    <br><br>
  <label>Enter your last name (max 50):
- <input type="text" name="lastName" size="50"></label>
+ <input type="text" id="lastName" size="50"></label>
    <br><br>
  <label>Enter your email:
- <input type="text" name="email"></label>
+ <input type="text" id="email"></label>
    <br><br>
   <label>Enter your phone number (max 15):
- <input type="text" name="phone"></label>
+ <input type="text" id="phone"></label>
    <br><br>
  <label>Enter your username (max 12):
- <input type="text" name="userName" maxlength="12"></label>
+ <input type="text" id="userName" maxlength="12"></label>
    <br><br>
  <label>Enter your password (max 7):
- <input type="password" name="userPassword" maxlength="7"></label>
+ <input type="password" id="userPassword" maxlength="7"></label>
    <br>
  </fieldset>
    <br>
  <fieldset>
  <legend>Current Address</legend>
  <label for="address">Enter Address:
- <input type="text" name="address" id="address" size="50"></label>
+ <input type="text" id="address" size="50"></label>
    <br><br>
  <label for="city">Enter City:
- <input type="text" name="city" id="city"></label>
+ <input type="text" id="city" ></label>
    <br><br>
  <label for="countries">Choose Country:</label>
  <select id="countries">
@@ -106,12 +106,12 @@
   </select>
     <br><br>
   <label for="zipcode">Enter Zipcode:
-  <input type="text" name="zipcode" id="zipcode"></label>
+  <input type="text" id="zipcode" id="zipcode"></label>
     <br><br>
  </fieldset>
     <br>
  <input id="submit" type="submit" value="Validate Form">
- <input id="cancel" type="submit" value="Cancel">   
    </form>
  </body>
 </html>
+
