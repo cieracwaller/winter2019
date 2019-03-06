@@ -1,0 +1,42 @@
+* {box-sizing:border-box}
+
+.container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  color:black;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.next {
+  float:right;
+}
+
+/* Caption text */
+.text {
+  color:black;
+  font-size: 20px;
+  padding: 8px 12px;
+  width: 100%;
+  text-align: center;
+
+}
+
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
