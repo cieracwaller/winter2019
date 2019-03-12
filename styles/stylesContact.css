@@ -24,11 +24,11 @@ body {
         padding: 0.5em 0;}
 
 #feature {
-	height: 17em;
     line-height:1.5em;
 	margin-top: 1em;
 	margin-bottom: 1em;
     padding:1em;
+    padding-bottom:2em;
 	background-color: #8ebfa5;
         background-image: url("https://cieracwaller.github.io/winter2019/images/watercolorLotus.png");
         background-size:contain;
