@@ -1,0 +1,32 @@
+* {
+	font-family: 'GardinerRegular', Verdana, sans-serif;
+	color: #665544;
+	text-align: center;}
+body {
+	width: 90%;
+    margin: 0 auto;
+    background-image:url("https://cieracwaller.github.io/winter2019/images/waterlilyPatternBackground1.png")}
+#content {
+	overflow: auto;}
+
+#nav li {
+	display: inline;
+	padding: 0.5em;}
+#nav {
+	background-color: #a8e4b8;
+	padding: 0.5em 0;
+    	line-height:1.5em;}
+    
+#footer {
+        background-color: #5d868d;  
+        padding: 0.5em 0;}
+#feature {
+	
+	margin-top: 1em;
+	margin-bottom: 1em;
+    padding:1em;
+	background-color: #8ebfa5;
+        background-image: url("https://cieracwaller.github.io/winter2019/images/watercolorLotus.png");
+        background-size:contain;
+        background-position: right;
+	background-repeat:no-repeat;}
