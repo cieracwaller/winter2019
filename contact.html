@@ -7,6 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="styles/stylesContact.css">
         <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/aegyptus-gardiner" type="text/css"/>
 	</head>
+  <script src="../javascript/scriptsValidateContact.js" type="text/javascript"></script>
 	<body>
 		<div id="header">
 		  <h1>Ciera Waller</h1>
@@ -25,12 +26,14 @@
 		</div>
 		<div id="content">
 			<div id="feature">
-				<h3>Want to Chat?</h3>
-                <form action="thankYou.html" target= "_blank" method="get" name="myContact">
-                Name:<br> <input type="text" name="visitorName"><br>
-                Email:<br> <input type="text" name="visitorEmail"><br>
-                Comments:<br><textarea name="comments"> Enter your comments...</textarea><br>  
-                <input type="submit" value="Submit">
+              <div id="errorMessages"></div>	
+              <form action="https://cieracwaller.github.io/winter2019/thankYou.html" method="get" id="myContact" onsubmit="return ValidateForm();">
+
+				<h3>Want to Chat?</h3>            
+                Name:<br> <input type="text" id="visitorName"><br>
+                Email:<br> <input type="text" id="visitorEmail"><br>
+                Comments:<br><textarea id="comments">Enter your comments...</textarea><br>  
+                <input type="submit" value="Submit Contact Info">
                 </form>
             </div>
 		</div>
