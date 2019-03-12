@@ -54,18 +54,29 @@ body {
 .artifact2{
   background-color: #ffccc6;
   background-image: url("https://cieracwaller.github.io/winter2019/images/knight.jpg");
+  
         background-size:contain;
         background-position: right;
 	background-repeat:no-repeat;
 }
 .artifact3{
   background-color: #e1afc6;
+   background-image: url("https://cieracwaller.github.io/winter2019/images/diamond.png");
+        background-size:contain;
+        background-position: right;
+	background-repeat:no-repeat;
 }
 .artifact4{
   background-color: #b99aab;
+   background-image: url("https://cieracwaller.github.io/winter2019/images/checkmark.png");
+        background-size:contain;
+        background-position: right;
+	background-repeat:no-repeat;
 }
 .artifact5{
   background-color: #9a9baf;
+   background-image: url("https://cieracwaller.github.io/winter2019/images/album.png");
+        background-size:contain;
+        background-position: right;
+	background-repeat:no-repeat;
 }
-
-
