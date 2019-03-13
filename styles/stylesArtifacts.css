@@ -7,7 +7,7 @@
 body {
 	width: 90%;
     margin: 0 auto;
-    background-image:url("https://cieracwaller.github.io/winter2019/images/waterlilyPatternBackground1.png")
+    background-image:url("/images/waterlilyPatternBackground1.png")
 }
 
 #content {
@@ -46,14 +46,14 @@ body {
 
 .artifact1{
   background-color: #ffd8c5;
-  background-image: url("https://cieracwaller.github.io/winter2019/images/logo_usp.png");
+  background-image: url("/images/logo_usp.png");
         background-size:contain;
         background-position: right;
 	background-repeat:no-repeat;
 }
 .artifact2{
   background-color: #ffccc6;
-  background-image: url("https://cieracwaller.github.io/winter2019/images/knight.jpg");
+  background-image: url("/images/knight.jpg");
   
         background-size:contain;
         background-position: right;
@@ -61,21 +61,21 @@ body {
 }
 .artifact3{
   background-color: #e1afc6;
-   background-image: url("https://cieracwaller.github.io/winter2019/images/diamond.png");
+   background-image: url("/images/diamond.png");
         background-size:contain;
         background-position: right;
 	background-repeat:no-repeat;
 }
 .artifact4{
   background-color: #b99aab;
-   background-image: url("https://cieracwaller.github.io/winter2019/images/checkmark.png");
+   background-image: url("/images/checkmark.png");
         background-size:contain;
         background-position: right;
 	background-repeat:no-repeat;
 }
 .artifact5{
   background-color: #9a9baf;
-   background-image: url("https://cieracwaller.github.io/winter2019/images/album.png");
+   background-image: url("/images/album.png");
         background-size:contain;
         background-position: right;
 	background-repeat:no-repeat;
