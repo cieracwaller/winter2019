@@ -6,7 +6,7 @@
 body {
 	width: 90%;
     margin: 0 auto;
-    background-image:url("/images/waterlilyPatternBackground1.png")}
+    background-image:url("https://cieracwaller.github.io/winter2019/images/waterlilyPatternBackground1.png")}
 
 #content {
 	overflow: auto;
@@ -35,7 +35,7 @@ body {
     padding:1em;
     padding-right:13em;
     background-color: #8ebfa5;
-    background-image: url("/images/dotaLogo.png");
+    background-image: url("https://cieracwaller.github.io/winter2019/images/dotaLogo.png");
     background-size:175px 175px;
     background-position: 98%;
 	background-repeat:no-repeat;
